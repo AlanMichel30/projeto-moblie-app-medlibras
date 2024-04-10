@@ -1,4 +1,4 @@
-# projeto-moblie-app-medlibras
+# Projeto-moblie-app-medlibras
 - Protótipo do app
 - Funcionalidades:
   O aplicativo mobile MedLibras terá o objetivo
@@ -6,7 +6,8 @@
   surdas,a sua funcionalidade é solucionar os transtornos
   de filas enfrentado pelo Pcds nas marcações nos hospitais.
 
-- Equipe
+§ Equipe:
   Alan Michel,Máuricio Cunha,Rodrigo de Melo,Israel Lopes,Amir Henrique
 
--Tecnologias
+§ Tecnologias:
+  
