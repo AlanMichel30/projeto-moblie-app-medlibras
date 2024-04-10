@@ -1,4 +1,4 @@
-# Projeto-moblie-app-medlibras
+# Projeto-moblie-app-Librastils
 - Protótipo do App.
 - Funcionalidades.
 - O aplicativo mobile MedLibras terá o objetivo
